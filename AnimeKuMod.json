@@ -217,6 +217,13 @@
     "allowOffline": true
   },
   {
+    "id": "34a7b85d01633619",
+    "username": "6281397835623",
+    "password": "animekumod",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
