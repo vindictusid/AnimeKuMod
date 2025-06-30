@@ -287,6 +287,13 @@
     "allowOffline": true
   },
   {
+    "id": "ca624bc24e570438",
+    "username": "vindictus",
+    "password": "animekufree",
+    "expiresAt": "2025-06-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_9",
     "username": "user2",
     "password": "pass2",
