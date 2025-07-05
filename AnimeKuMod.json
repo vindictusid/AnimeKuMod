@@ -336,6 +336,13 @@
     "allowOffline": true
   },
   {
+    "id": "2a0f9d8203af1142",
+    "username": "6283182196011",
+    "password": "animekufree",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_9",
     "username": "user2",
     "password": "pass2",
